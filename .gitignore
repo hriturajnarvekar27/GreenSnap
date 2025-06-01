@@ -1,0 +1,15 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore model weights
+vegetable_classifier.pth
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore local environment files
+.env
